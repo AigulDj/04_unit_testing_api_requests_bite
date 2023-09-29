@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 pytest = "*"
+requests = "*"
+urllib3 = "==1.26.7"
 
 [dev-packages]
 
